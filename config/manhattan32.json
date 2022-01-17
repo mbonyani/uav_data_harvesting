@@ -44,7 +44,7 @@
         "movement_penalty": 0.1
     },
     "trainer_params": {
-        "batch_size": 1024,
+        "batch_size": 8000,
         "num_steps": 3e6,
         "rm_pre_fill_ratio": 0.5,
         "rm_pre_fill_random": true,
@@ -57,7 +57,7 @@
         "conv_kernel_size": 5,
         "conv_kernels": 16,
         "hidden_layer_size": 256,
-        "hidden_layer_num": 3,
+        "hidden_layer_num": 2,
         "learning_rate": 3e-05,
         "rm_size": 50000,
         "alpha": 0.005,
