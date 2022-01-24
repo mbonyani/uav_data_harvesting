@@ -45,7 +45,7 @@
     },
     "trainer_params": {
         "batch_size": 128,
-        "num_steps": 3e6,
+        "num_steps": 120000,
         "rm_pre_fill_ratio": 0.5,
         "rm_pre_fill_random": true,
         "eval_period": 100,
